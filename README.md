@@ -1,5 +1,3 @@
-<link rel="shortcut icon" type="image/png" href="assets/images/icon.png">
-
 <h3 style="text-align:center">Hi, there! I'm Natalia</h3>
 
 I graduated from the University of Illinois at
