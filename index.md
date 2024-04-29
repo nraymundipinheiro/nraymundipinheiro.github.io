@@ -13,7 +13,7 @@ One of the most fulfilling projects I worked on was simulating a star system
 I can try simulating a binary star system. You can find more about
 [this project](https://github.com/nraymundipinheiro/star-system-simulator)
 below or you can check my [GitHub](https://github.com/nraymundipinheiro) account
-to try it out for yourself!
+to find other projects!
 
 I will start my master's degree in Physics this August at Stony Brook.
 I am hoping to extend my physics knowledge on certain topics, such as
