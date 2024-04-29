@@ -68,16 +68,25 @@ December 2023
 <b>High Energy Laboratory</b>, Undergraduate Research Assistant<br>
 <i>University of Illinois at Urbana-Champaign</i><br>
 June 2023 &ndash; August 2023
-- Developed simulations of the particle accelerator’s detector at the Conseil Européen pour la Recherche Nucléaire (CERN) to assess the impact of structural modifications on performance, ensuring improved detector designs are doable
+- Developed simulations of the particle accelerator’s detector at the Conseil
+Européen pour la Recherche Nucléaire (CERN) to assess the impact of structural
+modifications on performance, ensuring improved detector designs are doable
 - Built the detector’s structure from scratch in C++ using a variant of Geant4
-- Mentored high school students from low-income areas, breaking down complex physics, math, and programming concepts into simplified explanations, explaining how the research process works, and assisting with the construction of a poster
+- Mentored high school students from low-income areas, breaking down complex
+physics, math, and programming concepts into simplified explanations, explaining
+how the research process works, and assisting with the construction of a poster
 
 <b>Astrophysics and Cosmology Laboratory</b>, Undergraduate Research Assistant<br>
 <i>University of Illinois at Urbana-Champaign</i><br>
 June 2021 &ndash; August 2021
-- Conducted research aimed at enhancing the Even Horizon Telescope observations of Messier 87* and Sagittarius A* under the guidance of Dr. Charles Gammie, as part of the Research Experience for Undergraduates program
-- Analyzed the impact of parameters in the black hole simulation software, `ipole`, using Python in a virtual Linux machine
-- Performed regular weekly presentations on on my research progress to fellow students in the program, as well as to the research group, ensuring consistent communication and collaboration
+- Conducted research aimed at enhancing the Even Horizon Telescope observations
+of Messier 87* and Sagittarius A* under the guidance of Dr. Charles Gammie, as
+part of the Research Experience for Undergraduates program
+- Analyzed the impact of parameters in the black hole simulation software,
+`ipole`, using Python in a virtual Linux machine
+- Performed regular weekly presentations on on my research progress to fellow
+students in the program, as well as to the research group, ensuring consistent
+communication and collaboration
 
 <!--------------------------- MENTORING EXPERIENCE ---------------------------->
 
@@ -133,6 +142,40 @@ strategies and materials to address specific challenges
     🇫🇷 French (beginner)<br>
 </p>
 
+<!----------------------------- HONORS & AWARDS ------------------------------->
+
+<div class="container">
+    <div style="text-align:center">
+        <h2>Honors and Awards</h2>
+        <hr>
+    </div>
+</div>
+
+
+<b>Grainger College of Engineering Dean's List</b><br>
+<i>University of Illinois at Urbana-Champaign</i><br>
+Fall 2023, Fall 2021
+
+<b>Homer L. Dodge Prize of Top Sophomore</b><br>
+<i>University of Oklahoma's</i><br>
+May 2021
+
+<b>Honors Student</b><br>
+<i>University of Oklahoma</i><br>
+April 2020 &ndash; May 2021
+
+<b>President's Honor Roll</b><br>
+<i>University of Oklahoma</i><br>
+Fall 2019, Spring 2020, Fall 2020, Spring 2021
+
+<b>Gallogly College of Engineering Dean's Honor Roll</b><br>
+<i>University of Oklahoma</i><br>
+Fall 2020, Spring 2021
+
+<b>University College Dean's Honor Roll</b><br>
+<i>University of Oklahoma</i><br>
+Fall 2019, Spring 2020
+
 <!--------------------------------- PROJECTS ---------------------------------->
 
 <div class="container">
@@ -151,6 +194,35 @@ strategies and materials to address specific challenges
         <hr>
     </div>
 </div>
+
+<b>Rotaract Club</b>, Member<br>
+<i>Sananduva, Brazil</i><br>
+August 2021 &ndash; Present
+- Raised over R$ 1.000,00 for the international polio Rotary campaign, helping 
+the organization buy vaccines for countries that have not erradicated the disease
+- Assisted on the organization of the annual regional event between Rotaract
+clubs, specially with the technological tasks
+
+<b>Illinois Student Government</b>, Engineering Senator<br>
+<i>University of Oklahoma</i><br>
+September 2021 &ndash; May 2022
+- Represented the Grainger College of Engineering within the Illinois Student
+Government
+- Participated in the Diversity, Equity, and Inclusion (DEI) committee,
+promoting workshops around the university during the academic school year
+- Judged bill creation and changes as a member of the senate
+
+<b>Student Government Association</b>, Engineering Representative<br>
+<i>University of Oklahoma</i><br>
+November 2020 &ndash; May 2021
+- Mediated connection between the Gallogly College of Engineering students and
+the Student Government Association
+- Authored new bills and judged bill creation and changes as a member of the
+Congressional Administration committee
+- Examined and updated Student Government codes and regulations to align with
+COVID-induced adjustments, while actively promoting the inclusion of minority
+groups not just within the Student Government Association but across the campus
+
 
 
 <!------------------------------ PUBLICATIONS --------------------------------->
