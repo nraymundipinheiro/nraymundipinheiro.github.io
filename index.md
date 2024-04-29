@@ -114,10 +114,10 @@ June 2021 &ndash; August 2021
 
 <p style="text-align:center">
     <b>Languages</b><br>
-    Portuguese (native)<br>
-    Engligh (fluent)<br>
-    Italian (beginner)<br>
-    French (beginner)<br>
+    🇧🇷 Portuguese (native)<br>
+    🇺🇸 Engligh (fluent)<br>
+    🇮🇹 Italian (beginner)<br>
+    🇫🇷 French (beginner)<br>
 </p>
 
 <!--------------------------------- PROJECTS ---------------------------------->
