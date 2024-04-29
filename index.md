@@ -41,7 +41,7 @@ My contact information is at the bottom of the page.
 
 <div class="container">
     <div style="text-align:center">
-        <h2>Education</h2>
+        <h3>Education</h3>
         <hr>
     </div>
 </div>
@@ -107,9 +107,9 @@ strategies and materials to address specific challenges
 <div class="container">
     <div style="text-align:center">
         <h2>Skills</h2>
+        <hr>
     </div>
 </div>
-:-------------------------------------------------------------------------------
 
 <p style="text-align:center">
     <b>Technical Skills</b><br>
