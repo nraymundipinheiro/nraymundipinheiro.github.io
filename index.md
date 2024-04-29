@@ -65,14 +65,14 @@ December 2023
 </div>
 
 
-<b>High Energy Laboratory</b><br>
+<b>High Energy Laboratory</b>, Undergraduate Research Assistant<br>
 <i>University of Illinois at Urbana-Champaign</i><br>
 June 2023 &ndash; August 2023
 - Developed simulations of the particle accelerator’s detector at the Conseil Européen pour la Recherche Nucléaire (CERN) to assess the impact of structural modifications on performance, ensuring improved detector designs are doable
 - Built the detector’s structure from scratch in C++ using a variant of Geant4
 - Mentored high school students from low-income areas, breaking down complex physics, math, and programming concepts into simplified explanations, explaining how the research process works, and assisting with the construction of a poster
 
-<b>Astrophysics and Cosmology Laboratory</b><br>
+<b>Astrophysics and Cosmology Laboratory</b>, Undergraduate Research Assistant<br>
 <i>University of Illinois at Urbana-Champaign</i><br>
 June 2021 &ndash; August 2021
 - Conducted research aimed at enhancing the Even Horizon Telescope observations of Messier 87* and Sagittarius A* under the guidance of Dr. Charles Gammie, as part of the Research Experience for Undergraduates program
@@ -88,6 +88,19 @@ June 2021 &ndash; August 2021
     </div>
 </div>
 
+
+<b>Department of Computer Science</b>, Course Assistant<br>
+<i>University of Illinois at Urbana-Champaign</i><br>
+January 2023 &ndash; December 2023
+- Demonstrating patience, adaptability, and effective communication skills to
+support students in CS 101 in overcoming their initial hurdles in computer science,
+teaching how to approach coding, debug assignments, and apply their skills to
+real-world problems
+- Assisting over 120 students in learning Python and MATLAB programming
+languages, adapting teaching methods to accommodate diverse learning styles,
+varying levels of programming comprehension, and language barriers
+- Facilitating 4 weekly labs, collaborating with the course staff to develop
+strategies and materials to address specific challenges 
 
 <!---------------------------------- SKILLS ----------------------------------->
 
