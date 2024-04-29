@@ -107,9 +107,9 @@ strategies and materials to address specific challenges
 <div class="container">
     <div style="text-align:center">
         <h2>Skills</h2>
-        <hr>
     </div>
 </div>
+:-------------------------------------------------------------------------------
 
 <p style="text-align:center">
     <b>Technical Skills</b><br>
