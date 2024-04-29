@@ -98,6 +98,23 @@ June 2021 &ndash; August 2021
     </div>
 </div>
 
+<h3 style="text-align:center">Technical Skills</h3>
+<p style="text-align:center">
+    Python, C++, ROOT, Java, PHP, HTML, LaTeX, Arduino, Wolfram Language
+</p>
+
+<h3 style="text-align:center">Tools</h3>
+<p style="text-align:center">
+    Numerical Methods, Data Analysis, Machine Learning, Optimization, Algorithms, Linear Algebra, Statistics, Data Mining, Data Structures, Object-Oriented Programming, Databases, Git, GDB, Docker, Android Development, Unit Testing, Test-Driven Development, Unix, Linux, Windows, Geant4
+</p>
+
+<h3 style="text-align:center">Languages</h3>
+<p style="text-align:center">
+    Portuguese (native)<br>
+    Engligh (fluent)<br>
+    Italian (beginner)<br>
+    French (beginner)<br>
+</p>
 
 <!--------------------------------- PROJECTS ---------------------------------->
 
