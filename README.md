@@ -30,28 +30,18 @@ R&D companies, and software engineering positions.
 However, if you would like to talk about anything else&mdash;shoot me an email
 too! I love making new friends around the world.
 
-<h3 style="text-align:center">Table of Contents</h2>
+My contact information is at the bottom of the page.
 
-<p style="text-align:center">
-[Education](#education)<br>
-[Research Experience](#research-experience)<br>
-[Mentoring Experience](#mentoring-experience)<br>
-[Skills](#skills)<br>
-[Projects](#projects)<br>
-[Community Service and Leadership](#community-service-and-leadership)<br>
-[Publications](#publications)<br>
-[Contact](#contact)<br>
-</p>
 
 <!--------------------------------- EDUCATION --------------------------------->
 
-<!-- <div class="container">
+<div class="container">
     <div style="text-align:center">
         <h2>Education</h2>
+        <hr>
     </div>
-</div> -->
+</div>
 
-## Education
 
 <b>Master of Arts in Physics</b> <br>
 <i>Stony Brook University</i><br>
@@ -63,13 +53,13 @@ December 2023
 
 <!---------------------------- RESEARCH EXPERIENCE ---------------------------->
 
-<!-- <div class="container">
+<div class="container">
     <div style="text-align:center">
         <h2>Research Experience</h2>
+        <hr>
     </div>
-</div> -->
+</div>
 
-## Research Experience
 
 <b>High Energy Laboratory</b><br>
 <i>University of Illinois at Urbana-Champaign</i><br>
@@ -87,53 +77,52 @@ June 2021 &ndash; August 2021
 
 <!--------------------------- MENTORING EXPERIENCE ---------------------------->
 
-<!-- <div class="container">
+<div class="container">
     <div style="text-align:center">
         <h2>Mentoring Experience</h2>
+        <hr>
     </div>
-</div> -->
+</div>
 
-## Mentoring Experience
 
 <!---------------------------------- SKILLS ----------------------------------->
 
-<!-- <div class="container">
+<div class="container">
     <div style="text-align:center">
         <h2>Skills</h2>
+        <hr>
     </div>
-</div> -->
+</div>
 
-## Skills
 
 <!--------------------------------- PROJECTS ---------------------------------->
 
-<!-- <div class="container">
+<div class="container">
     <div style="text-align:center">
         <h2>Projects</h2>
+        <hr>
     </div>
-</div> -->
+</div>
 
-## Projects
 
 <!--------------------- COMMUNITY SERVICE & LEADERSHIP ------------------------>
 
-<!-- <div class="container">
+<div class="container">
     <div style="text-align:center">
         <h2>Community Service and Leadership</h2>
+        <hr>
     </div>
-</div> -->
+</div>
 
-## Community Service and Leadership
 
 <!------------------------------ PUBLICATIONS --------------------------------->
 
-<!-- <div class="container">
+<div class="container">
     <div style="text-align:center">
         <h2>Publications</h2>
+        <hr>
     </div>
-</div> -->
-
-## Publications
+</div>
 
 
 Nothing to see here... <i>yet</i>.
@@ -141,13 +130,12 @@ Nothing to see here... <i>yet</i>.
 
 <!--------------------------------- CONTACT ----------------------------------->
 
-<!-- <div class="container">
+<div class="container">
     <div style="text-align:center">
         <h2>Contact</h2>
+        <hr>
     </div>
-</div> -->
-
-## Contact
+</div>
 
 
 Feel free to contact me in my personal email at [nraymundipinheiro@hotmail.com](mailto:nraymundipinheiro@hotmail.com) or text me at my Brazilian phone number
