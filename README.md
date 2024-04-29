@@ -1,152 +1,116 @@
-<!------------------------------------ ICON ----------------------------------->
+# The Minimal theme
 
-<link rel="shortcut icon" type="image/png" href="assets/images/icon.png">
+[![.github/workflows/ci.yaml](https://github.com/pages-themes/minimal/actions/workflows/ci.yaml/badge.svg)](https://github.com/pages-themes/minimal/actions/workflows/ci.yaml) [![Gem Version](https://badge.fury.io/rb/jekyll-theme-minimal.svg)](https://badge.fury.io/rb/jekyll-theme-minimal)
 
-<!------------------------------------ INTRO ----------------------------------->
+*Minimal is a Jekyll theme for GitHub Pages. You can [preview the theme to see what it looks like](http://pages-themes.github.io/minimal), or even [use it today](#usage).*
 
-THIS CAN BE IGNORED.
+![Thumbnail of Minimal](thumbnail.png)
 
-<h3 style="text-align:center">Hi, there! I'm Natalia</h3>
+## Usage
 
-I graduated from the University of Illinois at
-Urbana-Champaign with honors in Engineering Physics in December of 2023.
+To use the Minimal theme:
 
-I love solving physics problems with computational approaches. During my free
-time, I enjoy picking up new projects to challenge myself; and, in the meantime,
-I enhance my technical skills.
-One of the most fulfilling projects I worked on was simulating a star system
-(based on the solar system). I'm working on adding more features so that, later,
-I can try simulating a binary star system. You can find more about this project
-below or you can check my GitHub account to try it out for yourself!
+1. Add the following to your site's `_config.yml`:
 
-I will start my master's degree in Physics this August at Stony Brook.
-I am hoping to extend my physics knowledge on certain topics, such as
-statistical mechanics and some areas of astrophysics, and I would like to
-work on research on compact objects. My plan is to prepare myself as best as I
-can for a future position as a Ph.D. student.
+    ```yml
+    remote_theme: pages-themes/minimal@v0.2.0
+    plugins:
+    - jekyll-remote-theme # add this line to the plugins list if you already have one
+    ```
 
-In my free time, I love to play volleyball, dance, and play instruments. I also
-like to spend time with friends, experimenting new, creative food from around
-the world. I visit my family in Brazil during the breaks, and when I'm there,
-I like traveling with them to Santa Catarina's beaches. I have a big dog
-named Lobo (meaning wolf, in Portuguese), and he's the cuddliest little big boy
-I know.
+2. Optionally, if you'd like to preview your site on your computer, add the following to your site's `Gemfile`:
 
-I'm open to talk about research in physics that can benefit from my knowledge in
-computational physics. I'm also open to talk about jobs in physics laboratories,
-R&D companies, and software engineering positions.
-However, if you would like to talk about anything else&mdash;shoot me an email
-too! I love making new friends around the world.
+    ```ruby
+    gem "github-pages", group: :jekyll_plugins
+    ```
 
-My contact information is at the bottom of the page.
+## Customizing
 
+### Configuration variables
 
-<!--------------------------------- EDUCATION --------------------------------->
+Minimal will respect the following variables, if set in your site's `_config.yml`:
 
-<div class="container">
-    <div style="text-align:center">
-        <h2>Education</h2>
-        <hr>
-    </div>
-</div>
+```yml
+title: [The title of your site]
+description: [A short description of your site's purpose]
+```
 
+Additionally, you may choose to set the following optional variables:
 
-<b>Master of Arts in Physics</b> <br>
-<i>Stony Brook University</i><br>
-Expected: December 2025
+```yml
+show_downloads: ["true" or "false" (unquoted) to indicate whether to provide a download URL]
+google_analytics: [Your Google Analytics tracking ID]
+```
 
-<b>Bachelor of Science in Engineering Physics</b>, cum laude <br>
-<i>University of Illinois at Urbana-Champaign</i><br>
-December 2023
+### Stylesheet
 
-<!---------------------------- RESEARCH EXPERIENCE ---------------------------->
+If you'd like to add your own custom styles:
 
-<div class="container">
-    <div style="text-align:center">
-        <h2>Research Experience</h2>
-        <hr>
-    </div>
-</div>
+1. Create a file called `/assets/css/style.scss` in your site
+2. Add the following content to the top of the file, exactly as shown:
+    ```scss
+    ---
+    ---
 
+    @import "{{ site.theme }}";
+    ```
+3. Add any custom CSS (or Sass, including imports) you'd like immediately after the `@import` line
 
-<b>High Energy Laboratory</b><br>
-<i>University of Illinois at Urbana-Champaign</i><br>
-June 2023 &ndash; August 2023
-- Developed simulations of the particle accelerator’s detector at the Conseil Européen pour la Recherche Nucléaire (CERN) to assess the impact of structural modifications on performance, ensuring improved detector designs are doable
-- Built the detector’s structure from scratch in C++ using a variant of Geant4
-- Mentored high school students from low-income areas, breaking down complex physics, math, and programming concepts into simplified explanations, explaining how the research process works, and assisting with the construction of a poster
+*Note: If you'd like to change the theme's Sass variables, you must set new values before the `@import` line in your stylesheet.*
 
-<b>Astrophysics and Cosmology Laboratory</b><br>
-<i>University of Illinois at Urbana-Champaign</i><br>
-June 2021 &ndash; August 2021
-- Conducted research aimed at enhancing the Even Horizon Telescope observations of Messier 87* and Sagittarius A* under the guidance of Dr. Charles Gammie, as part of the Research Experience for Undergraduates program
-- Analyzed the impact of parameters in the black hole simulation software, `ipole`, using Python in a virtual Linux machine
-- Performed regular weekly presentations on on my research progress to fellow students in the program, as well as to the research group, ensuring consistent communication and collaboration
+### Layouts
 
-<!--------------------------- MENTORING EXPERIENCE ---------------------------->
+If you'd like to change the theme's HTML layout:
 
-<div class="container">
-    <div style="text-align:center">
-        <h2>Mentoring Experience</h2>
-        <hr>
-    </div>
-</div>
+1. For some changes such as a custom `favicon`, you can add custom files in your local `_includes` folder. The files [provided with the theme](https://github.com/pages-themes/minimal/tree/master/_includes) provide a starting point and are included by the [original layout template](https://github.com/pages-themes/minimal/blob/master/_layouts/default.html).
+2. For more extensive changes, [copy the original template](https://github.com/pages-themes/minimal/blob/master/_layouts/default.html) from the theme's repository<br />(*Pro-tip: click "raw" to make copying easier*)
+3. Create a file called `/_layouts/default.html` in your site
+4. Paste the default layout content copied in the first step
+5. Customize the layout as you'd like
 
+### Customizing Google Analytics code
 
-<!---------------------------------- SKILLS ----------------------------------->
+Google has released several iterations to their Google Analytics code over the years since this theme was first created. If you would like to take advantage of the latest code, paste it into `_includes/head-custom-google-analytics.html` in your Jekyll site.
 
-<div class="container">
-    <div style="text-align:center">
-        <h2>Skills</h2>
-        <hr>
-    </div>
-</div>
+### Overriding GitHub-generated URLs
 
+Templates often rely on URLs supplied by GitHub such as links to your repository or links to download your project. If you'd like to override one or more default URLs:
 
-<!--------------------------------- PROJECTS ---------------------------------->
+1. Look at [the template source](https://github.com/pages-themes/minimal/blob/master/_layouts/default.html) to determine the name of the variable. It will be in the form of `{{ site.github.zip_url }}`.
+2. Specify the URL that you'd like the template to use in your site's `_config.yml`. For example, if the variable was `site.github.url`, you'd add the following:
+    ```yml
+    github:
+      zip_url: http://example.com/download.zip
+      another_url: another value
+    ```
+3. When your site is built, Jekyll will use the URL you specified, rather than the default one provided by GitHub.
 
-<div class="container">
-    <div style="text-align:center">
-        <h2>Projects</h2>
-        <hr>
-    </div>
-</div>
+*Note: You must remove the `site.` prefix, and each variable name (after the `github.`) should be indent with two space below `github:`.*
 
+For more information, see [the Jekyll variables documentation](https://jekyllrb.com/docs/variables/).
 
-<!--------------------- COMMUNITY SERVICE & LEADERSHIP ------------------------>
+## Roadmap
 
-<div class="container">
-    <div style="text-align:center">
-        <h2>Community Service and Leadership</h2>
-        <hr>
-    </div>
-</div>
+See the [open issues](https://github.com/pages-themes/minimal/issues) for a list of proposed features (and known issues).
 
+## Project philosophy
 
-<!------------------------------ PUBLICATIONS --------------------------------->
+The Minimal theme is intended to make it quick and easy for GitHub Pages users to create their first (or 100th) website. The theme should meet the vast majority of users' needs out of the box, erring on the side of simplicity rather than flexibility, and provide users the opportunity to opt-in to additional complexity if they have specific needs or wish to further customize their experience (such as adding custom CSS or modifying the default layout). It should also look great, but that goes without saying.
 
-<div class="container">
-    <div style="text-align:center">
-        <h2>Publications</h2>
-        <hr>
-    </div>
-</div>
+## Contributing
 
+Interested in contributing to Minimal? We'd love your help. Minimal is an open source project, built one contribution at a time by users like you. See [the CONTRIBUTING file](docs/CONTRIBUTING.md) for instructions on how to contribute.
 
-Nothing to see here... <i>yet</i>.
+### Previewing the theme locally
 
+If you'd like to preview the theme locally (for example, in the process of proposing a change):
 
-<!--------------------------------- CONTACT ----------------------------------->
+1. Clone down the theme's repository (`git clone https://github.com/pages-themes/minimal`)
+2. `cd` into the theme's directory
+3. Run `script/bootstrap` to install the necessary dependencies
+4. Run `bundle exec jekyll serve` to start the preview server
+5. Visit [`localhost:4000`](http://localhost:4000) in your browser to preview the theme
 
-<div class="container">
-    <div style="text-align:center">
-        <h2>Contact</h2>
-        <hr>
-    </div>
-</div>
+### Running tests
 
-
-Feel free to contact me in my personal email at [nraymundipinheiro@hotmail.com](mailto:nraymundipinheiro@hotmail.com) or text me at my Brazilian phone number
-at [+55 54 99676-5454](tel:5554996765454). I do have iMessage turned on, so that
-might be an option for you! Unfortunately, until I arrive in the U.S. on August,
-I don't have an American phone number.
+The theme contains a minimal test suite, to ensure a site with the theme would build successfully. To run the tests, simply run `script/cibuild`. You'll need to run `script/bootstrap` once before the test script will work.
