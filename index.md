@@ -98,18 +98,22 @@ June 2021 &ndash; August 2021
     </div>
 </div>
 
-<h3 style="text-align:center">Technical Skills</h3>
 <p style="text-align:center">
+    <b>Technical Skills</b><br>
     Python, C++, ROOT, Java, PHP, HTML, LaTeX, Arduino, Wolfram Language
 </p>
 
-<h3 style="text-align:center">Tools</h3>
 <p style="text-align:center">
-    Numerical Methods, Data Analysis, Machine Learning, Optimization, Algorithms, Linear Algebra, Statistics, Data Mining, Data Structures, Object-Oriented Programming, Databases, Git, GDB, Docker, Android Development, Unit Testing, Test-Driven Development, Unix, Linux, Windows, Geant4
+    <b>Tools</b><br>
+    Numerical Methods, Data Analysis, Machine Learning, Optimization,
+    Algorithms, Linear Algebra, Statistics, Data Mining, Data Structures,
+    Object-Oriented Programming, Databases, Git, GDB, Docker, Android
+    Development, Unit Testing, Test-Driven Development, Unix, Linux, Windows,
+    Geant4
 </p>
 
-<h3 style="text-align:center">Languages</h3>
 <p style="text-align:center">
+    <b>Languages</b><br>
     Portuguese (native)<br>
     Engligh (fluent)<br>
     Italian (beginner)<br>
@@ -163,3 +167,6 @@ Feel free to contact me in my personal email at [nraymundipinheiro@hotmail.com](
 at [+55 54 99676-5454](tel:5554996765454). I do have iMessage turned on, so that
 might be an option for you! Unfortunately, until I arrive in the U.S. on August,
 I don't have an American phone number.
+
+You can also connect with me on
+[LinkedIn](https://www.linkedin.com/in/natalia-raymundi-pinheiro/)!
