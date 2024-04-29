@@ -39,10 +39,10 @@ My contact information is at the bottom of the page.
 
 <!--------------------------------- EDUCATION --------------------------------->
 
+<hr>
 <div class="container">
     <div style="text-align:center">
-        <h3>Education</h3>
-        <hr>
+        <h2>Education</h2>
     </div>
 </div>
 
@@ -57,10 +57,10 @@ December 2023
 
 <!---------------------------- RESEARCH EXPERIENCE ---------------------------->
 
+<hr>
 <div class="container">
     <div style="text-align:center">
         <h2>Research Experience</h2>
-        <hr>
     </div>
 </div>
 
