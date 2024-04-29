@@ -11,8 +11,8 @@ I enhance my technical skills.
 One of the most fulfilling projects I worked on was simulating a star system
 (based on the solar system). I'm working on adding more features so that, later,
 I can try simulating a binary star system. You can find more about
-[this project](https://github.com/nraymundipinheiro/star-system-simulator)
-below or you can check my [GitHub](https://github.com/nraymundipinheiro) account
+[this project here](https://github.com/nraymundipinheiro/star-system-simulator)
+or you can check my [GitHub](https://github.com/nraymundipinheiro) account
 to find other projects!
 
 I will start my master's degree in Physics this August at Stony Brook.
