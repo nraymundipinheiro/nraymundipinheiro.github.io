@@ -30,6 +30,11 @@ R&D companies, and software engineering positions.
 However, if you would like to talk about anything else&mdash;shoot me an email
 too! I love making new friends around the world.
 
+<div class="container">
+    <div style="text-align:center">
+        <h2>Table of Contents</h2>
+    </div>
+</div>
 
 
 <!--------------------------------- EDUCATION --------------------------------->
@@ -37,6 +42,7 @@ too! I love making new friends around the world.
 <div class="container">
     <div style="text-align:center">
         <h2>Education</h2>
+        <hr>
     </div>
 </div>
 
