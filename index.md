@@ -1,5 +1,4 @@
 <!----------------------------------- INTRO ----------------------------------->
-Trying this out.
 
 <h3 style="text-align:center">Hi, there! I'm Natalia</h3>
 
