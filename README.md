@@ -1,4 +1,5 @@
-Tryingkwando abo ka ns
+<link rel="shortcut icon" type="image/png" href="assets/images/icon.png">
+asoidjhai oaihdai
 
 
 <h3 style="text-align:center">Hi, there! I'm Natalia</h3>
