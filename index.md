@@ -185,6 +185,30 @@ Fall 2019, Spring 2020
     </div>
 </div>
 
+<b>Volleyball Sorting Algorithm</b><br>
+February 2024 &ndash; Present
+<p style="margin-left:27px">
+As an avid volleyball enthusiast, nothing compares to the joy of playing with friends. Yet, the challenge of creating balanced teams—given the diverse skill levels among players—often dampened our enthusiasm. Recognizing this, I started a project to eliminate this obstacle...
+</p><p style="margin-left:27px">
+Introducing the Volleyball Sorting Algorithm. Designed with a blend of passion and precision, this software dynamically sorts players into two teams, balancing technical and physical abilities. The algorithm evaluates each player's skills in relation to the collective capabilities of the group, ensuring that the teams are evenly matched. This not only preserves the competitive spirit, but also amplifies the enjoyment for everyone, regardless of their skill level.
+</p><p style="margin-left:27px">
+Since implementing this algorithm, our volleyball matches have been transformed. We have rarely had predictable or unbalanced teams. Now, each game is a fresh experience with evenly matched teams, creating a fun and inclusive environment for all participants.
+</p><p style="margin-left:27px">
+The algorithm currently works, yet my vision for it extends beyond its present state. I am actively enhancing its features and, with an eye towards accessibility, planing to develop an iOS app. This will make it easier for casual volleyball communities everywhere to enjoy fair and enjoyable games.
+</p><p style="margin-left:27px">
+To check out the algorithms mechanics or to follow its progress, visit my GitHub at github.com/natalia-raymundi-pinheiro/volleyball-sorting.
+</p>
+
+<b>Particle Resuspension Induced by Mechanical Perturbation</b><br>
+<i>University of Illinois at Urbana-Champaign</i><br>
+February 2023 &ndash; May 2023
+<p style="margin-left:27px">
+Under the guidance of Dr. Nico Santiago, I conducted a project on particle resuspension due to mechanical perturbation along with 3 peers.
+</p><p style="margin-left:27px">
+Nuclear disasters produce radioactive fallout, where radioactive particles from nuclear explosions settle on the ground. When first responders enter the area or evacuations are needed, these particles can be resuspended, meaning they become airborne due to mechanical perturbations. This study aims to characterize this resuspension to provide data that can be used to reduce harm in emergencies.
+</p><p style="margin-left:27px">
+Overall, 40 hours of experiments were conducted on mechanical particle resuspension. I assembled a comprehensive Arduino board configuration that incorporated an environmental digital sensor, particle sensors, a real-time clock, a display, and an SD card breakout. I used Arduino programming (a variant of C++) to develop and optimize the system. I also programmed and automated Python scripts to streamline data cleaning and analysis, reducing over 2800 minutes that data mining would have taken if we were to do it manually, as was envisioned at the start.
+</p>
 
 <!--------------------- COMMUNITY SERVICE & LEADERSHIP ------------------------>
 
